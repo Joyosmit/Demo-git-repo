@@ -3,4 +3,6 @@ Sample git repo
 <br>
 Author- <strong>Joyosmit Pal</strong>
 <br>
-College- Jadavpur University, Kolkata
+College- <strong>Jadavpur University, Kolkata</strong>
+<br>
+Branch- <strong>B.E. Computer Science And Engineering</strong>
