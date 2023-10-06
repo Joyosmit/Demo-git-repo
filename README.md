@@ -1,4 +1,6 @@
 # Demo-git-repo
 Sample git repo
-Author- Joyosmit Pal
+<br>
+Author- <strong>Joyosmit Pal</strong>
+<br>
 College- Jadavpur University, Kolkata
